@@ -1,2 +1,3 @@
 # tksovtot
 Tietosovellusten toteuttaminen
+Testataan versionhallinnan toimintaa
